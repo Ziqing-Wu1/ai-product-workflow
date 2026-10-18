@@ -1,0 +1,17 @@
+{
+  "project_name": "大红袍三味品鉴装",
+  "product_category": "tea",
+  "status": "draft",
+  "confirmed_facts": {
+    "sample_box_sachets": 9,
+    "grams_per_sachet": 8,
+    "total_net_weight_g": 72,
+    "regular_pack_weight_g": 250
+  },
+  "pending_decisions": [
+    "试饮装售价",
+    "品牌名是否最终确定",
+    "目标用户年龄范围",
+    "主视觉配色"
+  ]
+}
